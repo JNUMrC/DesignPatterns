@@ -1,7 +1,8 @@
 package creational.abstractFactory;
 
 /**
- * Created by Administrator on 2017\10\14 0014.
+ * @author jnu_mrc jnumrc1990@gmail.com
+ * @Date 2017\10\14 0014 14:38
  */
 public class AccessFactory implements IFactory {
     @Override

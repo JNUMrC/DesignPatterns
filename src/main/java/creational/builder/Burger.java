@@ -1,7 +1,8 @@
 package creational.builder;
 
 /**
- * Created by Administrator on 2017\10\14 0014.
+ * @author jnu_mrc jnumrc1990@gmail.com
+ * @Date 2017\10\14 0014 14:39
  */
 public abstract class Burger implements Item{
     @Override
