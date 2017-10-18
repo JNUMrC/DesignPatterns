@@ -1,6 +1,7 @@
 package structural.flyweight;
 
 /**
+ * 享元：为运用共享技术有效地支持大量细粒度的对象。
  * Created by Administrator on 2017\10\15 0015.
  */
 public class FlyweightTest {

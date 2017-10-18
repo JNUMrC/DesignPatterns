@@ -1,6 +1,7 @@
 package creational.abstractFactory;
 
 /**
+ * 抽象工厂：提供一个创建一系列或相关依赖对象的接口，而无需指定它们具体的类。
  * @author jnu_mrc jnumrc1990@gmail.com
  * @Date 2017\10\14 0014 14:37
  */
